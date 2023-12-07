@@ -92,6 +92,7 @@ General knowledge questions related to cybersecurity.
 
 If I told you a word started with 0x70 in hexadecimal, what would it start with in ASCII?
 
+**Any discussions? engage with other participants [HERE](https://github.com/DSC-RIT/ctf2023-public/discussions/1)**
 
 ## Keep an eye out here, we will update you with some resources 
 
