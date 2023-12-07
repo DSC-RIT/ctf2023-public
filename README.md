@@ -37,6 +37,7 @@ Capture The Flag (CTF) is a type of cybersecurity competition that challenges pa
 Web exploitation in Capture the Flag (CTF) competitions involves finding and exploiting vulnerabilities in web applications to gain unauthorized access or extract sensitive information
 
 **Example**: GET aHEAD
+
 Find the flag being held on this server to get ahead of the competition [LINK](http://mercury.picoctf.net:47967/)
 
 ### 2. Forensics
