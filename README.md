@@ -10,6 +10,7 @@ Capture The Flag (CTF) is a type of cybersecurity competition that challenges pa
 - 20 CTFQs(Q=Question)
 - 2 hours of crackin
 - Figure out how to login, that's the first test...
+- Each team will be given one computer in the designated LABs
 
 ## Evaluation & Prize
 
