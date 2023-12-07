@@ -44,6 +44,7 @@ Find the flag being held on this server to get ahead of the competition [LINK](h
 Forensics challenges in CTFs often simulate real-world scenarios where participants need to investigate and analyze digital evidence to discover clues or uncover sensitive information. This can include examining files, network traffic, system logs, memory dumps, or any other digital data that might contain hidden flags.
 
 **Example**: information
+
 Files can always be changed in a secret way. Can you find the flag? [cat.jpg](https://mercury.picoctf.net/static/7cf6a33f90deeeac5c73407a1bdc99b6/cat.jpg)
 
 ### 3. Reverse Engineering
@@ -51,6 +52,7 @@ Files can always be changed in a secret way. Can you find the flag? [cat.jpg](ht
 Reverse Engineering in CTFs involves looking at a piece of code, analyzing given script and figuring out how it works, the correct password must then be extrapolated. The password is the flag
 
 **Example**: plain sight
+
 Reverse engineer the provided program to find the correct password.
 ```py
 def check_password(input_password):
@@ -70,6 +72,7 @@ else:
 Cryptography challenges in CTFs can cover various aspects, including symmetric and asymmetric encryption, hash functions, digital signatures, and more. Participants may encounter encoded messages, encrypted files, or cryptographic protocols that need to be analyzed and exploited to reveal the hidden flag. The goal is to apply cryptographic concepts and techniques to decrypt or manipulate data effectively.
 
 **Example**: Mod 26
+
 Cryptography can be easy, do you know what ROT13 is? cvpbPGS{arkg_gvzr_V'yy_gel_2_ebhaqf_bs_ebg13_GYpXOHqX}
 
 ### 5. Steganography
@@ -77,6 +80,7 @@ Cryptography can be easy, do you know what ROT13 is? cvpbPGS{arkg_gvzr_V'yy_gel_
 Steganography is the art and science of concealing information within other non-secret data to avoid detection. In the context of Capture the Flag (CTF) challenges, steganography is often used as a means to hide clues, keys, or other important information within seemingly innocent files or data.
 
 **Example**: Glory of the Garden
+
 This [garden](https://jupiter.challenges.picoctf.org/static/43c4743b3946f427e883f6b286f47467/garden.jpg) contains more than it seems.
 
 ### 6. Trivia
@@ -84,4 +88,5 @@ This [garden](https://jupiter.challenges.picoctf.org/static/43c4743b3946f427e883
 General knowledge questions related to cybersecurity.
 
 **Example**: Lets Warm Up
+
 If I told you a word started with 0x70 in hexadecimal, what would it start with in ASCII?
